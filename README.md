@@ -2,7 +2,7 @@
 
 ## About me
 - 🖥 Software Engineer & Team Leader 🚀
-- 💼 Working at [Salmon.ph](https://salmon.ph/)
+- 💼 Working at [Salmon.ph](https://salmon.ph/) as a Kotlin Backend Developer
 - 👨‍🏫 Leading lectures about Kotlin Backend Development at [Academy MEPhI](https://academy.mephi.ru/), former Samsung IT School Teacher
 - 🎓 National Research Nuclear University MEPhI<br/>
 
