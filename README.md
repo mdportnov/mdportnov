@@ -1,19 +1,19 @@
 ## Hi there 👋
 
 ## About me
-- 🖥 Software Engineer & Team Leader 🚀
+- 🖥 Software Engineer & Team Lead 🚀
 - 💼 Working at [Salmon.ph](https://salmon.ph/) as a Kotlin Backend Developer
 - 👨‍🏫 Leading lectures about Kotlin Backend Development at [Academy MEPhI](https://academy.mephi.ru/), former Samsung IT School Teacher
 - 🎓 National Research Nuclear University MEPhI<br/>
 
 ## Profile 🌟<br/>
-🛠️ Java & Kotlin (5+ years): Crafting cutting-edge applications with **Spring Boot**, **Micronaut**, and **Quarkus**. Skilled in Hibernate, Mutiny, and Database Management (MySQL, Postgres, MongoDB, Redis), Queues (RabbitMQ, Kafka, AWS SQS)<br/>
+🛠️ Java & Kotlin (6+ years): Crafting cutting-edge applications with **Spring Boot**, **Micronaut**, and **Quarkus**. Skilled in Hibernate, Mutiny, and Database Management (MySQL, Postgres, MongoDB, Redis), Queues (RabbitMQ, Kafka, AWS SQS)<br/>
 🌱 Former Android Developer (2~ years): Building mobile solutions using Android SDK, Jetpack Compose, and other contemporary tools<br/>
 💡 Project Management: A proven track record in leading diverse teams to streamline workflows and deliver projects on time<br/>
 📚 Educational Trailblazer: Passionately teaching and developing Java & Kotlin & JS/TS courses<br/>
 
 ## Technical Skills 💻<br/>
-⚡️ Languages & Technologies: Java ☕ (8/11/17), Kotlin, JavaScript/TypeScript, NodeJS, HTML/CSS, Python, Dart<br/>
+⚡️ Languages & Technologies: Java ☕ (8/11/17), Kotlin, JavaScript/TypeScript, Go, NodeJS, HTML/CSS, Python <br/>
 ✍️ Frameworks & Libraries: Spring/Hibernate, Ktor, Micronaut, Quarkus/Mutiny, Express/NestJS/Sequelize<br/>
 📎 TDD: JUnit, Mockito, Kotest, WireMock, Test Containers<br/>
 ⚙️ Persistence: MySQL, Postgres, RabbitMQ, Kafka, Redis, Hazelcast<br/>
