@@ -1,19 +1,18 @@
 ## Hi there 👋
 
 ## About me
-- 🖥 Software Engineer & Team Lead 🚀
-- 💼 Working at [Salmon.ph](https://salmon.ph/) as a Kotlin Backend Developer
-- 👨‍🏫 Leading lectures about Kotlin Backend Development at [Academy MEPhI](https://academy.mephi.ru/), former Samsung IT School Teacher
+- 🖥 Technical Lead & Software Engineer 🚀
+- 👨‍🏫 Leading lectures about Kotlin / Java / NodeJS at [Academy MEPhI](https://academy.mephi.ru/), former Samsung IT School Teacher
 - 🎓 National Research Nuclear University MEPhI<br/>
 
 ## Profile 🌟<br/>
-🛠️ Java & Kotlin (6+ years): Crafting cutting-edge applications with **Spring Boot**, **Micronaut**, and **Quarkus**. Skilled in Hibernate, Mutiny, and Database Management (MySQL, Postgres, MongoDB, Redis), Queues (RabbitMQ, Kafka, AWS SQS)<br/>
+🛠️ Java & Kotlin & NodeJS (7+ years): Crafting cutting-edge applications with **Spring Boot**, **Quarkus**, **Ktor**, **NestJS**. Skilled in Hibernate, Mutiny, and Database Management (MySQL, Postgres, MongoDB, Redis), Queues (RabbitMQ, Kafka, AWS SQS)<br/>
 🌱 Former Android Developer (2~ years): Building mobile solutions using Android SDK, Jetpack Compose, and other contemporary tools<br/>
 💡 Project Management: A proven track record in leading diverse teams to streamline workflows and deliver projects on time<br/>
 📚 Educational Trailblazer: Passionately teaching and developing Java & Kotlin & JS/TS courses<br/>
 
 ## Technical Skills 💻<br/>
-⚡️ Languages & Technologies: Java ☕ (8/11/17), Kotlin, JavaScript/TypeScript, Go, NodeJS, HTML/CSS, Python <br/>
+⚡️ Languages & Technologies: Java ☕ (8/11/17), Kotlin, JavaScript/TypeScript, NodeJS, Go, Python <br/>
 ✍️ Frameworks & Libraries: Spring/Hibernate, Ktor, Micronaut, Quarkus/Mutiny, Express/NestJS/Sequelize<br/>
 📎 TDD: JUnit, Mockito, Kotest, WireMock, Test Containers<br/>
 ⚙️ Persistence: MySQL, Postgres, RabbitMQ, Kafka, Redis, Hazelcast<br/>
@@ -28,11 +27,11 @@
 **Languages**<br/><br/>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
