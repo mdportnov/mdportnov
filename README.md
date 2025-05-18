@@ -16,7 +16,7 @@ Building scalable systems, leading dev teams, teaching the next generation, and 
 
 ### 💡 About Me
 
-- **Tech Lead, Engineer, Team Builder**
+- **Tech Lead, Software Engineer, Mentor**
 - Leading lectures on Java, Kotlin, NodeJS, ex-Samsung IT School Teacher.
 - 8+ years in backend: Java, Kotlin (Spring Boot, Quarkus, Ktor), NodeJS (NestJS, Express), Python (Django, Flask), Go.
 - Worked with databases, message queues, and cloud infra: MySQL, Postgres, MongoDB, Redis, RabbitMQ, Kafka, AWS, GCP, Docker, K8s.
